@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "PackingProblem",
+      "request": "launch",
+      "mainClass": "PackingProblem",
+      "projectName": "leet-code-space_36307989"
+    },
+    {
+      "type": "java",
+      "name": "QuickSort",
+      "request": "launch",
+      "mainClass": "QuickSort",
+      "projectName": "leet-code-space_36307989"
+    },
+    {
+      "name": "Launch Chrome",
+      "request": "launch",
+      "type": "pwa-chrome",
+      "url": "http://localhost:1010",
+      "webRoot": "'C:/Program Files/Google/Chrome/Application' --guest"
+    }
+  ]
+}
