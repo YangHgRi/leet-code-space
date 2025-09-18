@@ -1,4 +1,4 @@
-package knapsack_problem
+package main
 
 import "fmt"
 
