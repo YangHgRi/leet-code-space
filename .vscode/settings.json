@@ -1,5 +1,7 @@
 {
+  "go.lintOnSave": "off",
   "gopls": {
+    "staticcheck": false,
     "analyses": {
       "unusedfunc": false
     }
