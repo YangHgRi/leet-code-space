@@ -6,7 +6,7 @@
  */
 
 // @lcpr-template-start
-package leet_code_space
+package leetcodespace
 
 import (
 	"sort"

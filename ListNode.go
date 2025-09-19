@@ -1,4 +1,4 @@
-package leet_code_space
+package leetcodespace
 
 type ListNode struct {
 	Val  int
